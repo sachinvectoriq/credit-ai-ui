@@ -1,5 +1,5 @@
-import React from 'react';
-import { AlertTriangle, Shield, TrendingDown, AlertCircle, DollarSign, Calendar, Percent, FileText, TrendingUp } from 'lucide-react';
+//import React from 'react';
+import { AlertTriangle, Shield,  AlertCircle, DollarSign, Calendar, Percent, FileText, TrendingUp } from 'lucide-react';
 
 export default function RiskAnalysisTab() {
   // Sample data structure based on the HTML report

@@ -7,7 +7,7 @@ import { SourceSelector } from '@/features/ticker-input/components/SourceSelecto
 import { FileUploadZone } from '@/features/ticker-input/components/FileUploadZone';
 import { LoadingSpinner } from '@/shared/components/data-display/LoadingSpinner';
 import { NoAnalysisData, ErrorState } from '@/shared/components/data-display/EmptyState';
-import FinancialReportPDFGenerator from '@/shared/components/reports/FinancialReportPDFGenerator';
+//import FinancialReportPDFGenerator from '@/shared/components/reports/FinancialReportPDFGenerator';
 import { useAppStore } from '@/store/useAppStore';
 import { ANALYSIS_TABS } from '@/shared/utils/constants';
 import { cn } from '@/shared/utils/cn';
